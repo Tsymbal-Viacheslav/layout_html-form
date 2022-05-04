@@ -1,9 +1,13 @@
 /* styles go here */
 .form-field {
   display: block;
-  margin: 5px 0;
+  margin-bottom: 10px;
 }
 
 .block {
   margin: 10px 0;
+}
+
+.form-field:last-child {
+  margin: 0;
 }
